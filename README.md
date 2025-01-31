@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Swarnendu!  
 
-🔹 **Quality Engineer (Manual + Automation) | Java | Selenium | BDD Cucumber | API Testing | CI/CD**  
+🔹 **Quality Engineer (Manual + Automation) | Java | Selenium | BDD Cucumber | TestNG | API Testing | CI/CD**  
 
 ## 🚀 About Me  
 - 👀 I’m interested in **test automation, CI/CD integration, and optimizing testing workflows**.  
